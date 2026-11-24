@@ -12,6 +12,7 @@ the last clause -- the auto-reply is the one going on vacation, not
 just announcing it. Machine detail (prompts counted, thank-yous
 counted), a little guilt (nobody said thank you), a hint of relief
 (the beach). No beach-setup cliche, no inbox-zero, no "back soon".
+Entry length: 120 characters, 120 bytes, one line.
 """
 
 import os
